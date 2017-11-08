@@ -1723,3 +1723,77 @@
 2017-11-01 18:21:28 - PHP Notice:  Undefined index: config_file_mime_allowed in /var/www/html/lojadaresistencia/admin/controller/setting/setting.php on line 977
 2017-11-01 18:21:28 - PHP Notice:  Undefined index: config_error_filename in /var/www/html/lojadaresistencia/admin/controller/setting/setting.php on line 987
 2017-11-01 18:21:28 - PHP Notice:  Undefined index: config_encryption in /var/www/html/lojadaresistencia/admin/controller/setting/setting.php on line 995
+2017-11-06 23:45:29 - PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Este host n�o � conhecido.  in C:\xampp\htdocs\lojadaresistencia\system\library\db\mysqli.php on line 7
+2017-11-06 23:45:29 - PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Este host n�o � conhecido.  in C:\xampp\htdocs\lojadaresistencia\system\library\db\mysqli.php on line 7
+2017-11-07 1:35:17 - PHP Notice:  Undefined index: path in C:\xampp\htdocs\lojadaresistencia\catalog\view\theme\felixtheme\template\extension\module\category.tpl on line 40
+2017-11-07 1:35:17 - PHP Notice:  Undefined index: path in C:\xampp\htdocs\lojadaresistencia\catalog\view\theme\felixtheme\template\extension\module\category.tpl on line 40
+2017-11-07 1:35:19 - PHP Notice:  Undefined index: path in C:\xampp\htdocs\lojadaresistencia\catalog\view\theme\felixtheme\template\extension\module\category.tpl on line 40
+2017-11-07 1:35:19 - PHP Notice:  Undefined index: path in C:\xampp\htdocs\lojadaresistencia\catalog\view\theme\felixtheme\template\extension\module\category.tpl on line 40
+2017-11-07 2:29:27 - PHP Notice:  Undefined index: path in C:\xampp\htdocs\lojadaresistencia\catalog\view\theme\felixtheme\template\extension\module\category.tpl on line 40
+2017-11-07 2:29:27 - PHP Notice:  Undefined index: path in C:\xampp\htdocs\lojadaresistencia\catalog\view\theme\felixtheme\template\extension\module\category.tpl on line 40
+2017-11-07 2:29:28 - PHP Notice:  Undefined index: path in C:\xampp\htdocs\lojadaresistencia\catalog\view\theme\felixtheme\template\extension\module\category.tpl on line 40
+2017-11-07 2:29:28 - PHP Notice:  Undefined index: path in C:\xampp\htdocs\lojadaresistencia\catalog\view\theme\felixtheme\template\extension\module\category.tpl on line 40
+2017-11-07 15:43:12 - PHP Warning:  mysqli::__construct(): (HY000/2002): Nenhuma conex�o p�de ser feita porque a m�quina de destino as recusou ativamente.
+ in C:\xampp\htdocs\lojadaresistencia\system\library\db\mysqli.php on line 7
+2017-11-07 15:43:12 - PHP Warning:  mysqli::__construct(): (HY000/2002): Nenhuma conex�o p�de ser feita porque a m�quina de destino as recusou ativamente.
+ in C:\xampp\htdocs\lojadaresistencia\system\library\db\mysqli.php on line 7
+2017-11-07 15:43:19 - PHP Warning:  mysqli::__construct(): (HY000/2002): Nenhuma conex�o p�de ser feita porque a m�quina de destino as recusou ativamente.
+ in C:\xampp\htdocs\lojadaresistencia\system\library\db\mysqli.php on line 7
+2017-11-07 15:43:23 - PHP Warning:  mysqli::__construct(): (HY000/2002): Nenhuma conex�o p�de ser feita porque a m�quina de destino as recusou ativamente.
+ in C:\xampp\htdocs\lojadaresistencia\system\library\db\mysqli.php on line 7
+2017-11-07 15:43:40 - PHP Warning:  mysqli::__construct(): (HY000/2002): Nenhuma conex�o p�de ser feita porque a m�quina de destino as recusou ativamente.
+ in C:\xampp\htdocs\lojadaresistencia\system\library\db\mysqli.php on line 7
+2017-11-07 15:43:46 - PHP Warning:  mysqli::__construct(): (HY000/2002): Nenhuma conex�o p�de ser feita porque a m�quina de destino as recusou ativamente.
+ in C:\xampp\htdocs\lojadaresistencia\system\library\db\mysqli.php on line 7
+2017-11-08 1:27:51 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in C:\xampp\htdocs\lojadaresistencia\system\library\themeoptions.php on line 8
+2017-11-08 1:28:18 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in C:\xampp\htdocs\lojadaresistencia\system\library\themeoptions.php on line 8
+2017-11-08 1:30:22 - PHP Warning:  require_once(C:\xampp\htdocs\lojadaresistencia\system\library\themeoptions.php): failed to open stream: No such file or directory in C:\xampp\htdocs\lojadaresistencia\system\framework.php on line 118
+2017-11-08 1:31:33 - PHP Warning:  file_get_contents(admin/controller/extension/module/product_tabs.json): failed to open stream: No such file or directory in C:\xampp\htdocs\lojadaresistencia\system\library\themeoptions.php on line 8
+2017-11-08 1:48:17 - PHP Warning:  fopen(C:/xampp/htdocs/lojadaresistencia/system/storage/cache/cache.catalog.language.1510109297): failed to open stream: No such file or directory in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 49
+2017-11-08 1:48:17 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 51
+2017-11-08 1:48:17 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 53
+2017-11-08 1:48:17 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 55
+2017-11-08 1:48:17 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 57
+2017-11-08 1:48:17 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 59
+2017-11-08 1:48:17 - PHP Warning:  fopen(C:/xampp/htdocs/lojadaresistencia/system/storage/cache/cache.currency.1510109297): failed to open stream: No such file or directory in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 49
+2017-11-08 1:48:17 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 51
+2017-11-08 1:48:17 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 53
+2017-11-08 1:48:17 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 55
+2017-11-08 1:48:17 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 57
+2017-11-08 1:48:17 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 59
+2017-11-08 1:48:17 - PHP Warning:  fopen(C:/xampp/htdocs/lojadaresistencia/system/storage/cache/cache.catalog.language.1510109297): failed to open stream: No such file or directory in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 49
+2017-11-08 1:48:17 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 51
+2017-11-08 1:48:17 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 53
+2017-11-08 1:48:17 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 55
+2017-11-08 1:48:17 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 57
+2017-11-08 1:48:17 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 59
+2017-11-08 1:48:17 - PHP Warning:  fopen(C:/xampp/htdocs/lojadaresistencia/system/storage/cache/cache.currency.1510109297): failed to open stream: No such file or directory in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 49
+2017-11-08 1:48:17 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 51
+2017-11-08 1:48:17 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 53
+2017-11-08 1:48:17 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 55
+2017-11-08 1:48:17 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 57
+2017-11-08 1:48:17 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 59
+2017-11-08 1:48:26 - PHP Warning:  fopen(C:/xampp/htdocs/lojadaresistencia/system/storage/cache/cache.catalog.language.1510109306): failed to open stream: No such file or directory in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 49
+2017-11-08 1:48:26 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 51
+2017-11-08 1:48:26 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 53
+2017-11-08 1:48:26 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 55
+2017-11-08 1:48:26 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 57
+2017-11-08 1:48:26 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 59
+2017-11-08 1:48:26 - PHP Warning:  fopen(C:/xampp/htdocs/lojadaresistencia/system/storage/cache/cache.currency.1510109306): failed to open stream: No such file or directory in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 49
+2017-11-08 1:48:26 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 51
+2017-11-08 1:48:26 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 53
+2017-11-08 1:48:26 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 55
+2017-11-08 1:48:26 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 57
+2017-11-08 1:48:26 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 59
+2017-11-08 1:48:26 - PHP Warning:  fopen(C:/xampp/htdocs/lojadaresistencia/system/storage/cache/cache.catalog.language.1510109306): failed to open stream: No such file or directory in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 49
+2017-11-08 1:48:26 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 51
+2017-11-08 1:48:26 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 53
+2017-11-08 1:48:26 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 55
+2017-11-08 1:48:26 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 57
+2017-11-08 1:48:26 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 59
+2017-11-08 1:48:26 - PHP Warning:  fopen(C:/xampp/htdocs/lojadaresistencia/system/storage/cache/cache.currency.1510109306): failed to open stream: No such file or directory in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 49
+2017-11-08 1:48:26 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 51
+2017-11-08 1:48:26 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 53
+2017-11-08 1:48:26 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 55
+2017-11-08 1:48:26 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 57
+2017-11-08 1:48:26 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\lojadaresistencia\system\library\cache\file.php on line 59

@@ -190,17 +190,19 @@ class ControllerCommonFileManager extends Controller {
 		}
 
 		// Make sure we have the correct directory
+
 		if (isset($this->request->get['directory'])) {
 			$directory = rtrim(DIR_IMAGE . 'catalog/' . $this->request->get['directory'], '/');
 		} else {
 			$directory = DIR_IMAGE . 'catalog';
 		}
-
+		
 		// Check its a directory
-		if (!is_dir($directory) || substr(str_replace('\\', '/', realpath($directory)), 0, strlen(DIR_IMAGE . 'catalog/')) != str_replace('\\', '/', DIR_IMAGE . 'catalog/')) {
+		//if (!is_dir($directory) || substr(str_replace('\\', '/', realpath($directory)), 0, strlen(DIR_IMAGE . 'catalog')) != str_replace('\\', '/', DIR_IMAGE . 'catalog')) {
+		if (!is_dir($directory)) {	
 			$json['error'] = $this->language->get('error_directory');
 		}
-
+	
 		if (!$json) {
 			// Check if multiple files are uploaded or just one
 			$files = array();
@@ -290,9 +292,12 @@ class ControllerCommonFileManager extends Controller {
 		} else {
 			$directory = DIR_IMAGE . 'catalog';
 		}
-
+		//var_dump($this->request->get['directory']);
+		//var_dump($directory);
 		// Check its a directory
-		if (!is_dir($directory) || substr(str_replace('\\', '/', realpath($directory)), 0, strlen(DIR_IMAGE . 'catalog/')) != str_replace('\\', '/', DIR_IMAGE . 'catalog/')) {
+		//var_dump(substr(str_replace('\\', '/', realpath($directory)), 0, strlen(DIR_IMAGE . 'catalog/')));
+		//if (!is_dir($directory) || substr(str_replace('\\', '/', realpath($directory)), 0, strlen(DIR_IMAGE . 'catalog/')) != str_replace('\\', '/', DIR_IMAGE . 'catalog')) {
+		if (!is_dir($directory)){
 			$json['error'] = $this->language->get('error_directory');
 		}
 
