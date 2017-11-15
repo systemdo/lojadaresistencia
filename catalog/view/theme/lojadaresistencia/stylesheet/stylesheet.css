@@ -5,6 +5,7 @@ body {
 	font-size: 16px;
 	line-height: 20px;
 	width: 100%;
+	background-color: rgba(234, 226, 226, 0.5);
 }
 h1, h2, h3, h4, h5, h6 {
 	color: #444;
@@ -135,13 +136,23 @@ div.required .control-label:before {
 	height: 40px;
 	line-height: 20px;
 	padding: 0 10px;
+	border-color: #000;
 }
 #search .btn-lg {
 	font-size: 15px;
 	line-height: 18px;
 	padding: 10px 35px;
 	text-shadow: 0 1px 0 #FFF;
+	border-color: #000;
+	background: #000;
+	color:#fff;
+
 }
+
+#search .btn-lg:hover{
+	background: rgba(0, 0, 0, 0.78);
+}
+
 /* cart */
 #cart {
 	margin-bottom: 10px;
@@ -161,7 +172,8 @@ div.required .control-label:before {
 	text-shadow: none;
 }
 #cart.open > .btn:hover {
-	color: #444;
+	color: #fff;
+	background-color: #ff6a13;
 }
 #cart .dropdown-menu {
 	background: #eee;
@@ -204,7 +216,7 @@ div.required .control-label:before {
 	background-color: transparent;
 }
 #menu .nav > li > a:hover, #menu .nav > li.open > a {
-	background-color: rgba(255, 189, 32, 0.62);;
+	background-color: #ff6a13;
 }
 #menu .dropdown-menu {
 	padding-bottom: 0;
@@ -623,8 +635,8 @@ h2.price {
 	border: none;
 	display: inline-block;
 	float: left;
-	background-color: #eee;
-	color: #888;
+	background-color: #000;
+	color: #fff;
 	line-height: 38px;
 	font-weight: bold;
 	text-align: center;
@@ -635,8 +647,8 @@ h2.price {
 	border-left: 1px solid #ddd;
 }
 .product-thumb .button-group button:hover {
-	color: #444;
-	background-color: #ddd;
+	color: #fff;
+	background-color: #ff6a13;
 	text-decoration: none;
 	cursor: pointer;
 }

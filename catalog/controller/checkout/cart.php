@@ -225,6 +225,11 @@ class ControllerCheckoutCart extends Controller {
 
 			if ($files) {
 				foreach ($files as $file) {
+					
+					
+					if( basename($file, '.php') == 'shipping'){
+						continue;
+					}
 					$result = $this->load->controller('extension/total/' . basename($file, '.php'));
 					
 					if ($result) {
@@ -232,7 +237,8 @@ class ControllerCheckoutCart extends Controller {
 					}
 				}
 			}
-
+			//die();
+			$data['frete'] = $this->load->controller('extension/total/shipping');
 			$data['column_left'] = $this->load->controller('common/column_left');
 			$data['column_right'] = $this->load->controller('common/column_right');
 			$data['content_top'] = $this->load->controller('common/content_top');

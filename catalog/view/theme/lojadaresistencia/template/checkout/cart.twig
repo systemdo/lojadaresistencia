@@ -88,13 +88,24 @@
           </table>
         </div>
       </form>
+       <div class="row">
+      <div class="col-md-12">
       {% if modules %}
-      <h2>{{ text_next }}</h2>
-      <p>{{ text_next_choice }}</p>
-      <div class="panel-group" id="accordion"> {% for module in modules %}
+      {% for module in modules %}
+        <div class="col-sm-4">
         {{ module }}
-        {% endfor %} </div>
-      {% endif %} <br />
+        </div>
+        {% endfor %} 
+      {% endif %} 
+
+      {% if frete %}
+        <div class="col-sm-4">
+          {{frete}}
+        </div>  
+      {% endif %} 
+      </div> 
+       </div> 
+      <br />
       <div class="row">
         <div class="col-sm-4 col-sm-offset-8">
           <table class="table table-bordered">
