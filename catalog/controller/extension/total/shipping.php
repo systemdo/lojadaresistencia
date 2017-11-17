@@ -10,9 +10,10 @@ class ControllerExtensionTotalShipping extends Controller {
 				$data['country_id'] = $this->config->get('config_country_id');
 			}
 
+
+
 			$this->load->model('localisation/country');
 
-			$data['countries'] = $this->model_localisation_country->getCountries();
 
 			if (isset($this->session->data['shipping_address']['zone_id'])) {
 				$data['zone_id'] = $this->session->data['shipping_address']['zone_id'];
@@ -31,6 +32,9 @@ class ControllerExtensionTotalShipping extends Controller {
 			} else {
 				$data['shipping_method'] = '';
 			}
+			$data['countries'] = $this->model_localisation_country->getCountries();
+			$data['country_id'] = COUNTRY_ID;
+			$data['zone_id'] = ZONE_ID;
 
 			return $this->load->view('extension/total/shipping', $data);
 		}
@@ -142,7 +146,7 @@ class ControllerExtensionTotalShipping extends Controller {
 			array_multisort($sort_order, SORT_ASC, $quote_data);
 
 			$this->session->data['shipping_methods'] = $quote_data;
-
+				
 			if ($this->session->data['shipping_methods']) {
 				$json['shipping_method'] = $this->session->data['shipping_methods'];
 			} else {
@@ -157,7 +161,7 @@ class ControllerExtensionTotalShipping extends Controller {
 	public function shipping() {
 		$this->load->language('extension/total/shipping');
 
-		$json = array();
+		$json = array();	
 
 		if (!empty($this->request->post['shipping_method'])) {
 			$shipping = explode('.', $this->request->post['shipping_method']);

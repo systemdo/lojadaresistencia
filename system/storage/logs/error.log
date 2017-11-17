@@ -1851,3 +1851,33 @@
  in C:\xampp\htdocs\lojadaresistencia\system\library\db\mysqli.php on line 7
 2017-11-15 22:28:36 - PHP Warning:  mysqli::__construct(): (HY000/2002): Nenhuma conex�o p�de ser feita porque a m�quina de destino as recusou ativamente.
  in C:\xampp\htdocs\lojadaresistencia\system\library\db\mysqli.php on line 7
+2017-11-15 23:58:17 - PHP Warning:  mysqli::__construct(): (HY000/2002): Nenhuma conex�o p�de ser feita porque a m�quina de destino as recusou ativamente.
+ in C:\xampp\htdocs\lojadaresistencia\system\library\db\mysqli.php on line 7
+2017-11-16 22:30:06 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'lojadaresistencia' in C:\xampp\htdocs\lojadaresistencia\system\library\db\mysqli.php on line 7
+2017-11-16 22:30:31 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'lojadaresistencia' in C:\xampp\htdocs\lojadaresistencia\system\library\db\mysqli.php on line 7
+2017-11-16 23:45:13 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\lojadaresistencia\catalog\controller\extension\total\shipping.php on line 52
+2017-11-16 23:45:13 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\lojadaresistencia\catalog\controller\extension\total\shipping.php on line 62
+2017-11-16 23:46:27 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\lojadaresistencia\catalog\controller\extension\total\shipping.php on line 52
+2017-11-16 23:46:27 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\lojadaresistencia\catalog\controller\extension\total\shipping.php on line 62
+2017-11-16 23:46:46 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\lojadaresistencia\catalog\controller\extension\total\shipping.php on line 52
+2017-11-16 23:46:46 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\lojadaresistencia\catalog\controller\extension\total\shipping.php on line 62
+2017-11-16 23:49:05 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\lojadaresistencia\catalog\controller\extension\total\shipping.php on line 52
+2017-11-16 23:49:05 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\lojadaresistencia\catalog\controller\extension\total\shipping.php on line 62
+2017-11-16 23:50:34 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\lojadaresistencia\catalog\controller\extension\total\shipping.php on line 52
+2017-11-16 23:50:34 - PHP Notice:  Undefined index: country_id in C:\xampp\htdocs\lojadaresistencia\catalog\controller\extension\total\shipping.php on line 62
+2017-11-17 0:09:01 - PHP Notice:  Use of undefined constant COUNTRY_ID - assumed 'COUNTRY_ID' in C:\xampp\htdocs\lojadaresistencia\catalog\controller\extension\total\shipping.php on line 18
+2017-11-17 1:01:14 - Loja da Resistência: CEP de destino invalido.
+2017-11-17 1:01:14 - Loja da Resistência: CEP de destino invalido.
+2017-11-17 1:05:55 - Loja da Resistência: CEP de destino invalido.
+2017-11-17 1:05:55 - Loja da Resistência: CEP de destino invalido.
+2017-11-17 1:08:27 - Loja da Resistência: CEP de destino invalido.
+2017-11-17 1:08:27 - Loja da Resistência: CEP de destino invalido.
+2017-11-17 1:38:20 - Loja da Resistência: CEP de destino invalido.
+2017-11-17 1:38:20 - Loja da Resistência: CEP de destino invalido.
+2017-11-17 1:44:03 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\lojadaresistencia\catalog\controller\checkout\checkout.php on line 95
+2017-11-17 1:48:18 - Loja da Resistência: CEP de destino invalido.
+2017-11-17 1:48:18 - Loja da Resistência: CEP de destino invalido.
+2017-11-17 1:49:19 - Loja da Resistência: CEP de destino invalido.
+2017-11-17 1:49:19 - Loja da Resistência: CEP de destino invalido.
+2017-11-17 1:50:39 - Loja da Resistência: CEP de destino invalido.
+2017-11-17 1:50:39 - Loja da Resistência: CEP de destino invalido.

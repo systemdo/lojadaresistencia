@@ -33,3 +33,8 @@ define('DB_PASSWORD', '');
 define('DB_DATABASE', 'lojadaresistencia');
 define('DB_PORT', '3306');
 define('DB_PREFIX', '');
+
+
+define('COUNTRY_ID', 30);
+
+define('ZONE_ID', 444);
