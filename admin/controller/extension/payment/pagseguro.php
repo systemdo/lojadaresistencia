@@ -12,6 +12,7 @@ class ControllerExtensionPaymentPagseguro extends Controller {
         
         $user_token = $this->session->data['user_token'];
 		
+		//var_dump($_POST);die();	
 		if (($this->request->server['REQUEST_METHOD'] == 'POST') && $this->validate()) {
 			$this->load->model('setting/setting');
 			

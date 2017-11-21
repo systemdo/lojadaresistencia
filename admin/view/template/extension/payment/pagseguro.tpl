@@ -253,7 +253,7 @@
                 <div class="form-group">
                   <label class="col-sm-2 control-label"><span data-toggle="tooltip" data-html="true" title="<?php echo $help_exemplo_desconto ?>"><?php echo $entry_desconto_boleto ?></span></label>
                   <div class="col-sm-10">
-                    <input type="text" name="pagseguro_desconto_boleto" value="<?php echo $pagseguro_desconto_boleto ?>" class="form-control" />
+                    <input type="text" name="pagseguro_desconto_boleto" value="" class="form-control" />
                   </div>
                 </div>
 

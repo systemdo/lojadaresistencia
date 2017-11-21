@@ -82,3 +82,7 @@ $_['error_qnt_parcela']                 = 'Campo Inválido';
 $_['error_qnt_parcela_invalido']        = 'O máximo deverá ser 18 parcelas';
 $_['error_parcelas_sem_juros']          = 'Campo Inválido';
 $_['error_parcelas_sem_juros_invalido'] = 'O máximo deverá ser 18 parcelas';
+
+$_['pagseguro_email']         = 'Email';
+$_['pagseguro_token']         = 'Token';
+
