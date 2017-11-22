@@ -119,7 +119,7 @@ class ModelLocalisationCurrency extends Model {
 			$currency_data[] = $result['code'] . $this->config->get('config_currency') . '=X';
 		}
 
-		$curl = curl_init();
+		/*$curl = curl_init();
 
 		curl_setopt($curl, CURLOPT_URL, 'http://download.finance.yahoo.com/d/quotes.csv?s=' . implode(',', $currency_data) . '&f=sl1&e=.json');
 		curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
@@ -146,7 +146,7 @@ class ModelLocalisationCurrency extends Model {
 			}
 		}
 
-		$this->db->query("UPDATE " . DB_PREFIX . "currency SET value = '1.00000', date_modified = '" .  $this->db->escape(date('Y-m-d H:i:s')) . "' WHERE code = '" . $this->db->escape($this->config->get('config_currency')) . "'");
+		$this->db->query("UPDATE " . DB_PREFIX . "currency SET value = '1.00000', date_modified = '" .  $this->db->escape(date('Y-m-d H:i:s')) . "' WHERE code = '" . $this->db->escape($this->config->get('config_currency')) . "'");*/
 
 		$this->cache->delete('currency');
 	}

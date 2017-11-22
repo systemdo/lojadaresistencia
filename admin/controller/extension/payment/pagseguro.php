@@ -12,7 +12,6 @@ class ControllerExtensionPaymentPagseguro extends Controller {
         
         $user_token = $this->session->data['user_token'];
 		
-		//var_dump($_POST);die();	
 		if (($this->request->server['REQUEST_METHOD'] == 'POST') && $this->validate()) {
 			$this->load->model('setting/setting');
 			
@@ -341,6 +340,7 @@ class ControllerExtensionPaymentPagseguro extends Controller {
 		$data['header'] = $this->load->controller('common/header');
 		$data['column_left'] = $this->load->controller('common/column_left');
 		$data['footer'] = $this->load->controller('common/footer');
+		
 		
 		$this->response->setOutput($this->load->view('extension/payment/pagseguro', $data));
 	}

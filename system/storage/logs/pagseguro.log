@@ -1,0 +1,65 @@
+2017-11-22 21:32:35 - Array
+(
+    [Token] => Array
+        (
+            [email] => lojadaresistencia@gmail.com
+            [token] => 95D1710BBE0B463EA047F6A4DC2D0A71
+        )
+
+)
+
+2017-11-22 21:32:35 - Array
+(
+    [Response] => Unauthorized
+)
+
+2017-11-22 21:32:35 - Array
+(
+    [Info] => Array
+        (
+            [url] => https://ws.sandbox.pagseguro.uol.com.br/v2/sessions/
+            [content_type] => 
+            [http_code] => 0
+            [header_size] => 0
+            [request_size] => 0
+            [filetime] => -1
+            [ssl_verify_result] => 0
+            [redirect_count] => 0
+            [total_time] => 0
+            [namelookup_time] => 0
+            [connect_time] => 0
+            [pretransfer_time] => 0
+            [size_upload] => 0
+            [size_download] => 0
+            [speed_download] => 0
+            [speed_upload] => 0
+            [download_content_length] => -1
+            [upload_content_length] => -1
+            [starttransfer_time] => 0
+            [redirect_time] => 0
+            [redirect_url] => 
+            [primary_ip] => 
+            [certinfo] => Array
+                (
+                )
+
+            [primary_port] => 0
+            [local_ip] => 
+            [local_port] => 0
+        )
+
+)
+
+2017-11-22 21:32:35 - Array
+(
+    [Error] => 
+)
+
+2017-11-22 21:32:35 - Array
+(
+    [Error XML] => Array
+        (
+        )
+
+)
+

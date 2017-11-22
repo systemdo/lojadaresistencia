@@ -211,7 +211,7 @@
               </div>
 
               <!-- Custom Field (CPF) -->
-              <div class="form-group required">
+              <!--<div class="form-group required">
                 <label class="col-sm-2 control-label"><span data-toggle="tooltip" data-html="true" title="{{ help_cpf }}">{{ entry_cpf }}</span></label>
                 <div class="col-sm-10">
                   <span class="input-group">
@@ -229,6 +229,15 @@
                       <a href="{{ link_custom_field }}" class="btn btn-primary">{{ text_custom_field }}</a>
                     </span>
                   </span>
+                </div>
+              </div>-->
+                <div class="form-group required">
+                <label class="col-sm-2 control-label"><span data-toggle="tooltip" data-html="true" title="{{ help_cpf }}">{{ entry_cpf }}</span></label>
+                <div class="col-sm-10">
+                  <input name="payment_pagseguro_cpf" type="text" class="form-control" value="{{ payment_pagseguro_cpf }}" />
+                  {% if error_token %}
+                  <div class="text-danger">{{ error_cpf }}</div>
+                  {% endif %}
                 </div>
               </div>
 			  

@@ -4142,3 +4142,904 @@
 2017-11-22 11:28:28 - PHP Notice:  Undefined index: product_id in C:\xampp\htdocs\lojadaresistencia\system\storage\modification\admin\controller\catalog\product.php on line 1046
 2017-11-22 11:30:08 - PHP Notice:  Undefined index: product_id in C:\xampp\htdocs\lojadaresistencia\system\storage\modification\admin\controller\catalog\product.php on line 1046
 2017-11-22 11:31:31 - PHP Notice:  Undefined index: product_id in C:\xampp\htdocs\lojadaresistencia\system\storage\modification\admin\controller\catalog\product.php on line 1046
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 70
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 76
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_modo_teste in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 112
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_modo_teste in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 119
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_debug in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 133
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_debug in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 140
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_notificar_cliente in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 154
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_notificar_cliente in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 161
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_desconto_cartao in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 264
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_desconto_debito in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 272
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_acrescimo_boleto in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 285
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_acrescimo_cartao in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 293
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_acrescimo_debito in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 301
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_geo_zone in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 433
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_geo_zone in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 433
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_sort_order in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 447
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_qnt_parcelas in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 459
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_parcelas_sem_juros in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 470
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_boleto_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 491
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_boleto_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 498
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_valor_minimo_boleto in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 511
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_cartao_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 525
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_cartao_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 532
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_valor_minimo_cartao in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 545
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_debito_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 559
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_debito_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 566
+2017-11-22 16:02:49 - PHP Notice:  Undefined variable: pagseguro_valor_minimo_debito in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 579
+2017-11-22 16:02:58 - PHP Notice:  Undefined index: payment_pagseguro_email in C:\xampp\htdocs\lojadaresistencia\admin\controller\extension\payment\pagseguro.php on line 356
+2017-11-22 16:02:58 - PHP Notice:  Undefined index: payment_pagseguro_token in C:\xampp\htdocs\lojadaresistencia\admin\controller\extension\payment\pagseguro.php on line 361
+2017-11-22 16:02:58 - PHP Notice:  Undefined index: payment_pagseguro_qnt_parcelas in C:\xampp\htdocs\lojadaresistencia\admin\controller\extension\payment\pagseguro.php on line 366
+2017-11-22 16:02:58 - PHP Notice:  Undefined index: payment_pagseguro_parcelas_sem_juros in C:\xampp\htdocs\lojadaresistencia\admin\controller\extension\payment\pagseguro.php on line 373
+2017-11-22 16:02:58 - PHP Notice:  Undefined index: payment_pagseguro_boleto_status in C:\xampp\htdocs\lojadaresistencia\admin\controller\extension\payment\pagseguro.php on line 380
+2017-11-22 16:02:58 - PHP Notice:  Undefined index: payment_pagseguro_cartao_status in C:\xampp\htdocs\lojadaresistencia\admin\controller\extension\payment\pagseguro.php on line 387
+2017-11-22 16:02:58 - PHP Notice:  Undefined index: payment_pagseguro_debito_status in C:\xampp\htdocs\lojadaresistencia\admin\controller\extension\payment\pagseguro.php on line 394
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 70
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 76
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_modo_teste in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 112
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_modo_teste in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 119
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_debug in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 133
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_debug in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 140
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_notificar_cliente in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 154
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_notificar_cliente in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 161
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_desconto_cartao in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 264
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_desconto_debito in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 272
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_acrescimo_boleto in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 285
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_acrescimo_cartao in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 293
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_acrescimo_debito in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 301
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_geo_zone in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 433
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_geo_zone in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 433
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_sort_order in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 447
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_qnt_parcelas in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 459
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_parcelas_sem_juros in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 470
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_boleto_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 491
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_boleto_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 498
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_valor_minimo_boleto in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 511
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_cartao_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 525
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_cartao_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 532
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_valor_minimo_cartao in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 545
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_debito_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 559
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_debito_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 566
+2017-11-22 16:02:58 - PHP Notice:  Undefined variable: pagseguro_valor_minimo_debito in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 579
+2017-11-22 16:05:26 - PHP Notice:  Undefined index: payment_pagseguro_desconto_cartao in C:\xampp\htdocs\lojadaresistencia\admin\controller\extension\payment\pagseguro.php on line 166
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 70
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 76
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_modo_teste in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 112
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_modo_teste in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 119
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_debug in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 133
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_debug in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 140
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_notificar_cliente in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 154
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_notificar_cliente in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 161
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_desconto_cartao in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 264
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_desconto_debito in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 272
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_acrescimo_boleto in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 285
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_acrescimo_cartao in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 293
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_acrescimo_debito in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 301
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_geo_zone in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 433
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_geo_zone in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 433
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_sort_order in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 447
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_qnt_parcelas in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 459
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_parcelas_sem_juros in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 470
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_boleto_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 491
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_boleto_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 498
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_valor_minimo_boleto in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 511
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_cartao_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 525
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_cartao_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 532
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_valor_minimo_cartao in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 545
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_debito_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 559
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_debito_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 566
+2017-11-22 16:17:59 - PHP Notice:  Undefined variable: pagseguro_valor_minimo_debito in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 579
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 70
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 76
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_modo_teste in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 112
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_modo_teste in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 119
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_debug in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 133
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_debug in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 140
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_notificar_cliente in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 154
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_notificar_cliente in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 161
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_desconto_cartao in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 264
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_desconto_debito in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 272
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_acrescimo_boleto in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 285
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_acrescimo_cartao in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 293
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_acrescimo_debito in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 301
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_geo_zone in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 433
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_geo_zone in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 433
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_sort_order in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 447
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_qnt_parcelas in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 459
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_parcelas_sem_juros in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 470
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_boleto_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 491
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_boleto_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 498
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_valor_minimo_boleto in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 511
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_cartao_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 525
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_cartao_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 532
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_valor_minimo_cartao in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 545
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_debito_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 559
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_debito_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 566
+2017-11-22 16:19:27 - PHP Notice:  Undefined variable: pagseguro_valor_minimo_debito in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 579
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 70
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 76
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_email in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 89
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_token in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 100
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_modo_teste in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 112
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_modo_teste in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 119
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_debug in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 133
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_debug in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 140
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_notificar_cliente in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 154
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_notificar_cliente in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 161
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_desconto_boleto in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 256
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_desconto_cartao in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 264
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_desconto_debito in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 272
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_acrescimo_boleto in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 285
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_acrescimo_cartao in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 293
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_acrescimo_debito in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 301
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_aguardando_pagamento in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 316
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_analise in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 332
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_paga in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 348
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disponivel in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 364
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_disputa in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 380
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_devolvida in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 396
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_cancelada in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 412
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_geo_zone in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 433
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_geo_zone in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 433
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_sort_order in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 447
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_qnt_parcelas in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 459
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_parcelas_sem_juros in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 470
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_boleto_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 491
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_boleto_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 498
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_valor_minimo_boleto in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 511
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_cartao_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 525
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_cartao_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 532
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_valor_minimo_cartao in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 545
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_debito_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 559
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_debito_status in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 566
+2017-11-22 16:32:32 - PHP Notice:  Undefined variable: pagseguro_valor_minimo_debito in C:\xampp\htdocs\lojadaresistencia\admin\view\template\extension\payment\pagseguro.tpl on line 579
+2017-11-22 20:50:20 - PHP Warning:  mysqli::__construct(): (HY000/2002): Nenhuma conex�o p�de ser feita porque a m�quina de destino as recusou ativamente.
+ in C:\xampp\htdocs\lojadaresistencia\system\library\db\mysqli.php on line 7
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:12:30 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:57:36 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\lojadaresistencia\system\library\mail\mail.php on line 77
+2017-11-22 21:57:37 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\lojadaresistencia\system\library\mail\mail.php on line 77
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
+2017-11-22 21:58:38 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\lojadaresistencia\admin\controller\startup\error.php:34) in C:\xampp\htdocs\lojadaresistencia\system\library\response.php on line 36
