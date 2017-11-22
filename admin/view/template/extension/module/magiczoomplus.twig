@@ -1,0 +1,136 @@
+
+
+{% set oldheader = header  %}
+{% set newheader = header|replace({'</head>':(style ~ script ~ '</head>')}) %}
+{% if oldheader == newheader %}
+	{% set newheader = header|replace({'<div id="container">':(style ~ script ~ '<div id="container">')}) %}
+{% endif %}
+
+{{ newheader }}{{ column_left }}
+
+
+<div id="content">
+	<form action="{{ action }}" method="post" id="form-magiczoomplus" name="form-magiczoomplus" class="form-horizontal">
+		<div class="page-header">
+			<div class="container-fluid">
+	   			<div class="pull-right">
+					<button type="submit" form="form-magiczoomplus" data-toggle="tooltip" title="{{ button_save }}" class="btn btn-primary"><i class="fa fa-save"></i></button>
+					<a href="{{ cancel }}" data-toggle="tooltip" title="{{ title }}" class="btn btn-default"><i class="fa fa-reply"></i></a>
+	    		</div>
+	    		<h1>{{ heading_title }}</h1>
+			    <ul class="breadcrumb">
+			    	{% for breadcrumb in breadcrumbs %}
+			    		<li><a href="{{ breadcrumb['href'] }}">{{ breadcrumb['text'] }}</a></li>
+			    	{% endfor %}
+			    </ul>
+			</div>
+    	</div>
+
+		<div class="container-fluid">
+                    {% if refresh_modifications %}
+                        <iframe style="display:none;" src="{{constant('HTTPS_SERVER')}}index.php?route=marketplace/modification/refresh&{{ token_url }}" width="0" height="0"></iframe>
+                    {% endif %}
+			{% if error_warning %}
+			    <div class="alert alert-danger"><i class="fa fa-exclamation-circle"></i> {{ error_warning }}
+			      <button type="button" class="close" data-dismiss="alert">&times;</button>
+			    </div>
+		    {% endif %}
+
+			<div class="content">
+
+			  	{% if trial %}
+			  		{{ trial_bage }}
+				{% endif %}
+  
+  				<ul class="nav nav-tabs">
+					<li class="active" >
+		    			<a href="#tab-general" data-toggle="tab">General</a>
+					</li>
+		
+					{% for block_id, block_name in blocks if block_id != 'default' %}
+						<li>
+						    <a href="#tab-{{ block_id }}" data-toggle="tab">{{ block_name }}</a>
+						</li>
+					{% endfor %}
+
+				</ul>
+    
+    			<div class="tab-content">
+					<div class="tab-pane  active" id="tab-general">
+	    				<div class="panel panel-default">
+							<div class="panel-heading">
+		    					<h3 class="panel-title"><i class="fa fa-pencil"></i>Module status</h3>
+							</div>
+							<div class="panel-body {{ toolAbr }}params">
+							    <div class="form-group">
+									<label class="col-sm-2 control-label" for="magiczoomplussettingStatus">Enable/Disable module</label>
+									<div class="col-sm-10">
+			  							<select name="magiczoomplus_status" class="form-control">
+											<option value="1" {{ magiczoomplus_status ? 'selected' }} >{{ text_enabled }}</option>
+											<option value="0" {{ not magiczoomplus_status ? 'selected'}} >{{ text_disabled }}</option>
+			  							</select>
+			  							<input type="hidden" name="magiczoomplus_status_was" value="{{ magiczoomplus_status }}">
+									</div>
+		    					</div>
+		    
+							</div>
+	    				</div>
+        
+					    {{ groupsHTML['general'] }}
+	    
+	    				<div class="panel panel-default">
+		    				<div class="panel-heading">
+								<h3 class="panel-title"><i class="fa fa-pencil"></i>Other</h3>
+		    				</div>
+		    
+		    				<div class="panel-body {{ toolAbr }}params">
+								<div class="form-group">
+									<label class="col-sm-2 control-label" for="magiczoomplussettingChache-path">Path to cache folder</label>
+									<div class="col-sm-10">
+										<input class="form-control" type="text" size="60" value="{{ path_to_cache }}" disabled="disabled" />
+										<p class="help-block">Relative for site base path</p>
+									</div>
+								</div>
+								<div class="form-group">
+									<label class="col-sm-2 control-label" for="magiczoomplussettingTotal-items">Total items</label>
+									<div class="col-sm-10">
+										<input class="form-control" type="text" size="60" value="{{ total_items }}" disabled="disabled" />
+									</div>
+								</div>
+								<div class="form-group">
+									<label class="col-sm-2 control-label" for="magiczoomplussettingUnuser-items">Unused items</label>
+									<div class="col-sm-10">
+										<input class="form-control" type="text" size="60" value="{{ unused_items }}" disabled="disabled" />
+									</div>
+								</div>
+								<div class="form-group">
+									<label class="col-sm-2 control-label" for="magiczoomplussettingEmpte-chache">Empty cache</label>
+									<div class="col-sm-10">
+										<select class="form-control" name="what-clear">
+											<option value="unused_items" selected="selected">Delete unused items</option>
+											<option value="all_items">Delete all items</option>
+										</select>&nbsp;
+										<input type="hidden" id="clear_cache" name="clear_cache" value="0" />
+									</div>
+								</div>
+								<div class="form-group">
+									<div class="col-sm-2"></div>
+									<div class=" col-sm-10">
+										<a class="btn btn-primary" onclick="$('#clear_cache').val(1);$(this).closest('form').submit();" class="button"><span>{{ button_clear }}</span></a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+	
+					{% for block_id , block_name in blocks if block_id != 'default' %}
+					   {{ (groupsHTML[block_id]) }}
+					{% endfor %}
+	  
+				</div>
+      		</div>
+      	</div>	
+	</form>
+</div>
+
+{{ footer }}

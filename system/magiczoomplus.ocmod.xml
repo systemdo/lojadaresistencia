@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modification>
+	<name><![CDATA[MagicToolbox MagicZoomPlus mod for OpenCart]]></name>
+        <version><![CDATA[4.4.5]]></version>
+        <code><![CDATA[MagicZoomPlus]]></code>
+        <author><![CDATA[magictoolbox.com]]></author>
+        <link><![CDATA[http://magictoolbox.com]]></link>
+        
+               <file path="admin/view/template/common/menu.tpl">
+                <operation>
+                        <search ><![CDATA[<?php if ($openbay_show_menu == 1) { ?>]]></search>
+                        <add position="before" ><![CDATA[
+                            <?php if ($module_installed) { ?>
+                                <li><a href="<?php echo  $magiczoomplus_module_link; ?>"><img style="width:32px; margin-bottom: -1px;" src="<?php echo HTTPS_SERVER; ?>controller/module/magiczoomplus-opencart-module/magiczoomplus.png" />MagicZoomPlus</a></li>
+                            <?php } ?>
+                        ]]></add>
+                </operation>
+        </file>
+        <file path="admin/controller/common/menu.php">
+                <operation>
+                        <search ><![CDATA[$data['openbay_show_menu'] = $this->config->get('openbaypro_menu');]]></search>
+                        <add position="after" ><![CDATA[
+                            
+                            $rez = $this->db->query("SELECT * FROM ".DB_PREFIX."extension WHERE code = 'magiczoomplus'");
+                            $data['module_installed'] = $rez->num_rows;
+                            
+                            $data['magiczoomplus_module_link'] = $this->url->link('module/magiczoomplus', 'token=' . $this->session->data['token'], true);
+                        ]]></add>
+                </operation>
+        </file>
+        <!--<file path="admin/controller/common/column_left.php">
+                <operation>
+                        <search ><![CDATA[if ($extension) {]]></search>
+                        <add position="before" ><![CDATA[
+                        $rez = $this->db->query("SELECT * FROM ".DB_PREFIX."extension WHERE code = 'magiczoomplus'");
+                        if ($this->user->hasPermission('access', 'extension/module/magiczoomplus') && $rez->num_rows) {
+                            $extension[] = array(
+                                    'name'     => '<img style="width:32px; margin-bottom: -1px;" src="'.HTTPS_SERVER.'controller/extension/module/magiczoomplus-opencart-module/magiczoomplus.png" /> MagicZoomPlus',
+                                    'href'     => $this->url->link('extension/module/magiczoomplus', 'token=' . $this->session->data['token'], true),
+                                    'children' => array()           
+                            );
+                        }
+                        ]]></add>
+                </operation>
+                <operation>
+                        <search ><![CDATA[if ($marketplace) {]]></search>
+                        <add position="before" ><![CDATA[
+                        $rez = $this->db->query("SELECT * FROM ".DB_PREFIX."extension WHERE code = 'magiczoomplus'");
+                        if ($this->user->hasPermission('access', 'extension/module/magiczoomplus') && $rez->num_rows) {
+                            $marketplace[] = array(
+                                    'name'     => '<img style="width:32px; margin-bottom: -1px;" src="'.HTTPS_SERVER.'controller/extension/module/magiczoomplus-opencart-module/magiczoomplus.png" /> MagicZoomPlus',
+                                    'href'     => $this->url->link('extension/module/magiczoomplus', 'token=' . $this->session->data['token'], true),
+                                    'children' => array()           
+                            );
+                        }
+                        ]]></add>
+                </operation>
+        </file>-->
+         <file path="admin/controller/common/column_left.php">
+            <operation>
+                        <search regex="true"><![CDATA[~if \(\$(extension|marketplace)\) {~]]></search>
+                        <add position="replace" ><![CDATA[
+                        if ($$1) {
+                            
+                        $rez = $this->db->query("SELECT * FROM ".DB_PREFIX."extension WHERE code = 'magiczoomplus'");
+                        if (version_compare(VERSION,'3','<')) {
+                            if ($this->user->hasPermission('access', 'extension/module/magiczoomplus') && $rez->num_rows) {
+                                $extension[] = array(
+                                        'name'     => '<img style="width:32px; margin-bottom: -1px;" src="'.HTTPS_SERVER.'controller/extension/module/magiczoomplus-opencart-module/magiczoomplus.png" /> Magic Zoom Plus',
+                                        'href'     => $this->url->link('extension/module/magiczoomplus', 'token=' . $this->session->data['token'], true),
+                                        'children' => array()           
+                                );
+                            }
+                        } else {
+                            if ($this->user->hasPermission('access', 'extension/module/magiczoomplus') && $rez->num_rows) {
+                                $marketplace[] = array(
+                                        'name'     => '<img style="width:32px; margin-bottom: -1px;" src="'.HTTPS_SERVER.'controller/extension/module/magiczoomplus-opencart-module/magiczoomplus.png" /> Magic Zoom Plus',
+                                        'href'     => $this->url->link('extension/module/magiczoomplus', 'user_token=' . $this->session->data['user_token'], true),
+                                        'children' => array()           
+                                );
+                            }
+                        }
+                        
+                        ]]></add>
+                </operation>
+                
+        </file>
+</modification>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modification>
+	<name><![CDATA[MagicToolbox Video mod for OpenCart]]></name>
+        <version><![CDATA[4.4.2]]></version>
+        <code><![CDATA[MagicToolbox-video]]></code>
+        <author><![CDATA[magictoolbox.com]]></author>
+        <link><![CDATA[http://magictoolbox.com]]></link>
+	<file path="admin/view/template/catalog/product_form.twig">
+		<operation>
+			<search><![CDATA[<li><a href="#tab-image" data-toggle="tab">{{ tab_image }}</a></li>]]></search>
+			<add position="after"><![CDATA[<li><a href="#tab-video" data-toggle="tab">{{ tab_video }}</a></li>]]>
+                    </add>
+		</operation>
+                <operation>
+                        <search><![CDATA[<div class="tab-pane" id="tab-reward">]]></search>
+                        <add position="before"><![CDATA[
+                            
+            <div class="tab-pane" id="tab-video">
+              
+              <div class="form-group">
+                <label class="col-sm-2 control-label" for="input-video"><span data-toggle="tooltip" title="Provide links to YouTube or Vimeo videos: https://www.youtube.com/watch?v=XXXXXXXXXXX or https://vimeo.com/XXXXXXXXX">{{ entry_video }}</span></label>
+                <div class="col-sm-10">
+                  <input type="text" name="video" value="" placeholder="{{ entry_video }}" id="input-video" class="form-control" />
+                  <div id="product-video" class="well well-sm" style="height: 150px; overflow: auto;"> {% for product_video in product_videos %}
+                    <div><i class="fa fa-minus-circle"></i> {{ product_video.url }}
+                      <input type="hidden" name="product_video[]" value="{{ product_video.url }}" />
+                    </div>
+                    {% endfor %}</div>
+                </div>
+              </div>
+            </div>]]>
+                    </add>
+                </operation>
+                <operation>
+                        <search><![CDATA[// Downloads]]></search>
+                        <add position="before"><![CDATA[
+//Video
+
+$('input[name=\'video\']').keypress(function (e) {
+  if (e.which == 13) {
+    e.preventDefault();
+    $('#product-video').append('<div><i class="fa fa-minus-circle"></i> ' + $(this).val() + ' <input type="hidden" name="product_video[]" value="' + $(this).val() + '" /></div>');
+    $('input[name=\'video\']').val('');
+    
+    
+  }
+});
+
+$('#product-video').delegate('.fa-minus-circle', 'click', function() {
+        $(this).parent().remove();
+});]]>
+                    </add>
+                </operation>
+	</file>
+        
+        <file path="admin/view/template/catalog/product_form.tpl">
+                <operation>
+                        <search><![CDATA[<li><a href="#tab-image" data-toggle="tab"><?php echo $tab_image; ?></a></li>]]></search>
+                        <add position="after"><![CDATA[<li><a href="#tab-video" data-toggle="tab"><?php echo $tab_video; ?></a></li>]]>
+                    </add>
+                </operation>
+                <operation>
+                        <search><![CDATA[<div class="tab-pane" id="tab-reward">]]></search>
+                        <add position="before"><![CDATA[
+                            
+            <div class="tab-pane" id="tab-video">
+              
+              <div class="form-group">
+                <label class="col-sm-2 control-label" for="input-video"><span data-toggle="tooltip" title="Provide links to YouTube or Vimeo videos: https://www.youtube.com/watch?v=XXXXXXXXXXX or https://vimeo.com/XXXXXXXXX"><?php echo $entry_video; ?></span></label>
+                <div class="col-sm-10">
+                  <input type="text" name="video" value="" placeholder="<?php echo $entry_video; ?>" id="input-video" class="form-control" />
+                  <div id="product-video" class="well well-sm" style="height: 150px; overflow: auto;">
+                      
+                      <?php foreach ($product_videos as $product_video) { ?>
+                      
+                    <div><i class="fa fa-minus-circle"></i><?php echo $product_video['url']; ?>
+                        <input type="hidden" name="product_video[]" value="<?php echo $product_video['url']; ?>" />
+                    </div>
+                    
+                    <?php } ?>
+                    
+                    </div>
+                </div>
+              </div>
+            </div>]]>
+                    </add>
+                </operation>
+                <operation>
+                        <search><![CDATA[// Downloads]]></search>
+                        <add position="before"><![CDATA[
+//Video
+
+$('input[name=\'video\']').keypress(function (e) {
+  if (e.which == 13) {
+    e.preventDefault();
+    $('#product-video').append('<div><i class="fa fa-minus-circle"></i> ' + $(this).val() + ' <input type="hidden" name="product_video[]" value="' + $(this).val() + '" /></div>');
+    $('input[name=\'video\']').val('');
+    
+    
+  }
+});
+
+$('#product-video').delegate('.fa-minus-circle', 'click', function() {
+        $(this).parent().remove();
+});]]>
+                    </add>
+                </operation>
+        </file>
+        
+        <file path="admin/model/catalog/product.php">
+                <operation>
+                        <search index="0"><![CDATA[if (isset($data['product_related'])) {]]></search>
+                        <add position="before"><![CDATA[
+                            
+                            
+                                            if (isset($data['product_video'])) {
+                                                    foreach ($data['product_video'] as $video) {
+                                                            $this->insertProductVideo($product_id,$video);
+                                                    }
+                                            }
+                            
+                            
+                            ]]>
+                    </add>
+                </operation>
+                <operation>
+                        <search index="1"><![CDATA[if (isset($data['product_related'])) {]]></search>
+                        <add position="before"><![CDATA[
+                            
+                $this->db->query("DELETE FROM " . DB_PREFIX . "product_video WHERE product_id = '" . (int)$product_id . "'");
+
+                if (isset($data['product_video'])) {
+                        foreach ($data['product_video'] as $video) {
+                                $this->insertProductVideo($product_id,$video);
+                        }
+                }
+                            
+                            
+                            ]]>
+                    </add>
+                </operation>
+                        <operation>
+                        <search><![CDATA[public function getTotalProductsByLayoutId($layout_id) {]]></search>
+                        <add position="before"><![CDATA[
+                            
+        public function getProductVideos($product_id) {
+                $query = $this->db->query("SELECT * FROM " . DB_PREFIX . "product_video WHERE product_id = '" . (int)$product_id . "'");
+
+                return $query->rows;
+        }
+        
+
+        public function insertProductVideo($product_id,$org_url) {
+                
+                
+            $url = parse_url($org_url);
+            if (!$url) return;
+            
+            $isVimeo = false;
+            $videoCode = null;
+            
+            if (preg_match('#youtube\.com|youtu\.be#', $url['host'])) {
+                if (isset($url['query']) && preg_match('#\bv=([^&]+)(?:&|$)#', $url['query'], $matches)) {
+                    $videoCode = $matches[1];
+                } elseif (isset($url['path']) && preg_match('#^/(?:embed/|v/)?([^/\?]+)(?:/|\?|$)#', $url['path'], $matches)) {
+                    $videoCode = $matches[1];
+                }
+            } elseif (preg_match('#(?:www\.|player\.)?vimeo\.com#', $url['host'])) {
+                $isVimeo = true;
+                if (isset($url['path']) && preg_match('#/(?:channels/[^/]+/|groups/[^/]+/videos/|album/[^/]+/video/|video/|)(\d+)(?:/|\?|$)#', $url['path'], $matches)) {
+                    $videoCode = $matches[1];
+                }
+            }
+
+            if (!$videoCode) return;
+
+            if($isVimeo) {
+                $hash = unserialize(file_get_contents('http://vimeo.com/api/v2/video/'.$videoCode.'.php'));
+                $thumb = $hash[0]['thumbnail_small'];
+            } else {
+                $thumb = 'https://i1.ytimg.com/vi/'.$videoCode.'/1.jpg';
+            }
+            
+            $type = ($isVimeo ? 'vimeo' : 'youtube' );
+            
+            
+            $query = $this->db->query("INSERT INTO " . DB_PREFIX . "product_video SET 
+                                                                                        product_id = '" . (int)$product_id . "', 
+                                                                                        url = '". $this->db->escape($org_url) ."',
+                                                                                        code = '".$this->db->escape($videoCode)."',
+                                                                                        thumb = '".$this->db->escape($thumb)."',
+                                                                                        type = '".$this->db->escape($type)."'
+                                                                                        ");
+        }
+                            
+                            
+                            ]]>
+                    </add>
+                </operation>
+        </file>
+        
+         <file path="admin/controller/catalog/product.php">
+                <operation>
+                        <search><![CDATA[// Downloads]]></search>
+                        <add position="before"><![CDATA[
+                            
+                //Videos start
+                
+                $data['product_videos'] = $this->model_catalog_product->getProductVideos($this->request->get['product_id']);
+                $data['tab_video'] = 'Video';
+                $data['entry_video'] = 'Link to the video';
+                            
+                //Videos end
+                            
+                            ]]>
+                    </add>
+                </operation>
+        </file>
+        
+         <file path="catalog/model/catalog/product.php">
+                <operation>
+                        <search><![CDATA[public function getProduct($product_id) {]]></search>
+                        <add position="after"><![CDATA[$videos = $this->getProductVideos($product_id);]]>
+                    </add>
+                </operation>
+                 <operation>
+                        <search><![CDATA['date_modified'    => $query->row['date_modified'],]]></search>
+                        <add position="after"><![CDATA[                         'videos'           => $videos,]]>
+                    </add>
+                </operation>
+                <operation>
+                        <search><![CDATA[public function getTotalProductSpecials() {]]></search>
+                        <add position="before"><![CDATA[
+                            
+        public function getProductVideos($product_id) {
+                $query = $this->db->query("SELECT * FROM " . DB_PREFIX . "product_video WHERE product_id = '" . (int)$product_id . "'");
+
+                return $query->rows;
+        }
+                            
+                            ]]>
+                    </add>
+                </operation>
+                
+        </file>
+        
+</modification>

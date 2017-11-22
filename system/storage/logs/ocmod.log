@@ -1,0 +1,203 @@
+2017-11-22 0:02:22 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 69
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 110
+LINE: 122
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 59
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 73
+LINE: 79
+
+FILE: system/library/template/template.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 35
+----------------------------------------------------------------
+MOD: MagicToolbox mod for OpenCart
+
+FILE: catalog/controller/product/product.php
+CODE: <?php
+LINE: 37
+
+FILE: catalog/controller/product/category.php
+CODE: <?php
+LINE: 37
+
+FILE: catalog/controller/product/manufacturer.php
+CODE: <?php
+LINE: 37
+
+FILE: catalog/controller/product/search.php
+CODE: <?php
+LINE: 37
+
+FILE: catalog/controller/common/column_left.php
+CODE: module->getModule($part[1]);
+LINE: 64
+CODE: if (isset($part[1]) && isset($setting[$part[1]])) {
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/controller/common/column_right.php
+CODE: module->getModule($part[1]);
+LINE: 64
+CODE: if (isset($part[1]) && isset($setting[$part[1]])) {
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/controller/common/content_bottom.php
+CODE: module->getModule($part[1]);
+LINE: 64
+CODE: if (isset($part[1]) && isset($setting[$part[1]])) {
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/controller/common/content_top.php
+CODE: if (isset($part[1]) && isset($setting[$part[1]])) {
+NOT FOUND - OPERATION SKIPPED!
+CODE: module->getModule($part[1]);
+LINE: 64
+REGEX: ~(\$this->response->setOutput\()(\$this->load->view\(.*?product\/product.*?,\s+\$data\))(\);)~
+LINE: 489
+CODE: $results = $this->model_catalog_product->getProductImages($this->request->get['product_id']);
+LINE: 306
+CODE: _image_popup_height'));
+LINE: 293
+CODE: _image_popup_height')),
+LINE: 311
+REGEX: ~(\$this->response->setOutput\()(\$this->load->view\(.*?product\/category.*?,\s+\$data\))(\);)~
+LINE: 399
+CODE: _image_product_height'));
+LINE: 204
+LINE: 207
+REGEX: ~(\$this->response->setOutput\()(\$this->load->view\(.*?product\/manufacturer_(?:info|list).*?,\s+\$data\))(\);)~
+LINE: 91
+LINE: 378
+CODE: _image_product_height'));
+LINE: 195
+LINE: 198
+REGEX: ~(\$this->response->setOutput\()(\$this->load->view\(.*?product\/search.*?,\s+\$data\))(\);)~
+LINE: 492
+CODE: _image_product_height'));
+LINE: 232
+LINE: 235
+
+FILE: catalog/controller/common/header.php
+CODE: <?php
+LINE: 36
+CODE: return
+LINE: 115
+CODE: $this->load->view
+LINE: 119
+
+FILE: catalog/controller/extension/module/latest.php
+CODE: <?php
+LINE: 37
+REGEX: ~return\s+(.*?);~
+LINE: 103
+
+FILE: catalog/controller/extension/module/bestseller.php
+CODE: <?php
+LINE: 37
+REGEX: ~return\s+(.*?);~
+LINE: 96
+
+FILE: catalog/controller/extension/module/special.php
+CODE: <?php
+LINE: 37
+REGEX: ~return\s+(.*?);~
+LINE: 103
+
+FILE: catalog/controller/extension/module/featured.php
+CODE: <?php
+LINE: 37
+REGEX: ~return\s+(.*?);~
+LINE: 112
+CODE: $image = $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height']);
+LINE: 60
+CODE: $image = $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height']);
+LINE: 53
+CODE: $image = $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height']);
+LINE: 60
+CODE: $product_info = $this->model_catalog_product->getProduct($product_id);
+LINE: 59
+CODE: $image = $this->model_tool_image->resize($product_info['image'], $setting['width'], $setting['height']);
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: admin/controller/extension/extension/module.php
+CODE: $data['extensions'][] = array(
+LINE: 165
+----------------------------------------------------------------
+MOD: MagicToolbox Video mod for OpenCart
+
+FILE: admin/view/template/catalog/product_form.twig
+CODE: <li><a href="#tab-image" data-toggle="tab">{{ tab_image }}</a></li>
+LINE: 35
+CODE: <div class="tab-pane" id="tab-reward">
+LINE: 629
+CODE: // Downloads
+LINE: 828
+
+FILE: admin/model/catalog/product.php
+CODE: if (isset($data['product_related'])) {
+LINE: 107
+CODE: if (isset($data['product_related'])) {
+LINE: 275
+CODE: public function getTotalProductsByLayoutId($layout_id) {
+LINE: 794
+
+FILE: admin/controller/catalog/product.php
+CODE: // Downloads
+LINE: 1052
+
+FILE: catalog/model/catalog/product.php
+CODE: public function getProduct($product_id) {
+LINE: 7
+CODE: 'date_modified'    => $query->row['date_modified'],
+LINE: 52
+CODE: public function getTotalProductSpecials() {
+LINE: 540
+----------------------------------------------------------------
+MOD: MagicToolbox MagicZoomPlus mod for OpenCart
+
+FILE: admin/controller/common/column_left.php
+REGEX: ~if \(\$(extension|marketplace)\) {~
+LINE: 201
+----------------------------------------------------------------
+MOD: Simplica Theme
+
+FILE: catalog/view/theme/simplica/template/common/cart.twig
+CODE: <div id="cart" class="btn-group btn-block">
+LINE: 0
+
+FILE: catalog/controller/extension/module/carousel.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/swiper/css/opencart.css');
+LINE: 9
+
+FILE: catalog/controller/extension/module/carousel_item.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/swiper/css/opencart.css');
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/controller/extension/module/banner.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/swiper/css/opencart.css');
+LINE: 9
+
+FILE: catalog/controller/extension/module/slideshow.php
+CODE: $this->document->addStyle('catalog/view/javascript/jquery/swiper/css/opencart.css');
+LINE: 9
+
+FILE: catalog/view/theme/simplica/template/common/footer.twig
+CODE: <p>{{ powered }}</p>
+LINE: 41
+----------------------------------------------------------------
