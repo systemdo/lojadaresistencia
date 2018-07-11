@@ -14,7 +14,7 @@ class ControllerExtensionPaymentCod extends Controller {
 		
 			$json['redirect'] = $this->url->link('checkout/success');
 		}
-		
+		$json['redirect'] = $this->url->link('checkout/success');
 		$this->response->addHeader('Content-Type: application/json');
 		$this->response->setOutput(json_encode($json));		
 	}

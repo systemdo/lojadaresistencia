@@ -5043,3 +5043,25 @@
 2017-11-22 21:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
 2017-11-22 21:58:38 - PHP Warning:  Division by zero in C:\xampp\htdocs\lojadaresistencia\admin\model\localisation\currency.php on line 141
 2017-11-22 21:58:38 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\lojadaresistencia\admin\controller\startup\error.php:34) in C:\xampp\htdocs\lojadaresistencia\system\library\response.php on line 36
+2017-11-22 22:18:33 - PHP Warning:  DOMDocument::loadXML(): AttValue: &quot; or ' expected in Entity, line: 1 in C:\xampp\htdocs\lojadaresistencia\catalog\model\extension\shipping\correios.php on line 270
+2017-11-22 22:18:33 - PHP Warning:  DOMDocument::loadXML(): attributes construct error in Entity, line: 1 in C:\xampp\htdocs\lojadaresistencia\catalog\model\extension\shipping\correios.php on line 270
+2017-11-22 22:18:33 - PHP Warning:  DOMDocument::loadXML(): Couldn't find end of Start Tag a line 1 in Entity, line: 1 in C:\xampp\htdocs\lojadaresistencia\catalog\model\extension\shipping\correios.php on line 270
+2017-11-22 22:18:33 - PHP Warning:  DOMDocument::loadXML(): Opening and ending tag mismatch: body line 1 and a in Entity, line: 1 in C:\xampp\htdocs\lojadaresistencia\catalog\model\extension\shipping\correios.php on line 270
+2017-11-22 22:18:33 - PHP Warning:  DOMDocument::loadXML(): Opening and ending tag mismatch: html line 1 and body in Entity, line: 1 in C:\xampp\htdocs\lojadaresistencia\catalog\model\extension\shipping\correios.php on line 270
+2017-11-22 22:18:33 - PHP Warning:  DOMDocument::loadXML(): Extra content at the end of the document in Entity, line: 1 in C:\xampp\htdocs\lojadaresistencia\catalog\model\extension\shipping\correios.php on line 270
+2017-11-22 22:18:33 - PHP Warning:  DOMDocument::loadXML(): AttValue: &quot; or ' expected in Entity, line: 1 in C:\xampp\htdocs\lojadaresistencia\catalog\model\extension\shipping\correios.php on line 270
+2017-11-22 22:18:33 - PHP Warning:  DOMDocument::loadXML(): attributes construct error in Entity, line: 1 in C:\xampp\htdocs\lojadaresistencia\catalog\model\extension\shipping\correios.php on line 270
+2017-11-22 22:18:33 - PHP Warning:  DOMDocument::loadXML(): Couldn't find end of Start Tag a line 1 in Entity, line: 1 in C:\xampp\htdocs\lojadaresistencia\catalog\model\extension\shipping\correios.php on line 270
+2017-11-22 22:18:33 - PHP Warning:  DOMDocument::loadXML(): Opening and ending tag mismatch: body line 1 and a in Entity, line: 1 in C:\xampp\htdocs\lojadaresistencia\catalog\model\extension\shipping\correios.php on line 270
+2017-11-22 22:18:33 - PHP Warning:  DOMDocument::loadXML(): Opening and ending tag mismatch: html line 1 and body in Entity, line: 1 in C:\xampp\htdocs\lojadaresistencia\catalog\model\extension\shipping\correios.php on line 270
+2017-11-22 22:18:33 - PHP Warning:  DOMDocument::loadXML(): Extra content at the end of the document in Entity, line: 1 in C:\xampp\htdocs\lojadaresistencia\catalog\model\extension\shipping\correios.php on line 270
+2017-11-22 22:22:03 - PHP Warning:  fsockopen(): unable to connect to :25 (Nenhuma conex�o p�de ser feita porque a m�quina de destino as recusou ativamente.
+) in C:\xampp\htdocs\lojadaresistencia\system\library\mail\smtp.php on line 88
+2017-11-22 22:22:35 - PHP Warning:  fsockopen(): unable to connect to :25 (Nenhuma conex�o p�de ser feita porque a m�quina de destino as recusou ativamente.
+) in C:\xampp\htdocs\lojadaresistencia\system\library\mail\smtp.php on line 88
+2017-11-22 22:23:45 - PHP Warning:  fsockopen(): unable to connect to :25 (Nenhuma conex�o p�de ser feita porque a m�quina de destino as recusou ativamente.
+) in C:\xampp\htdocs\lojadaresistencia\system\library\mail\smtp.php on line 88
+2017-11-22 22:24:29 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\lojadaresistencia\system\library\mail\mail.php on line 77
+2017-11-22 22:24:30 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\lojadaresistencia\system\library\mail\mail.php on line 77
+2017-11-22 22:32:58 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\lojadaresistencia\system\library\mail\mail.php on line 77
+2017-11-22 22:32:59 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\lojadaresistencia\system\library\mail\mail.php on line 77

@@ -1,10 +1,38 @@
+Camisa Angela Davis - Azul Rosa
+
+Camisa Malcom X - Verde Azul 
+Camisa Malcom X - Amarelo Azul 
+Camisa Malcom X - Rosa Vermelho
+Camisa Malcom X - Azul Rosa
+
+Camisa Martin L king - Verde Azul 
+Camisa Martin L King - Amarelo Azul 
+Camisa Martin L King - Rosa Vermelho
+Camisa Martin L King - Azul Rosa
 Modelo: Heroína da Resistência
+
+Modelo: Herói da Resistência
+
 url: camisadaresistencia/heroina-resistencia/angela-davis/azul-verde
 
-descrição camisa da heroína Angela Davis líder do movimento pelo direitos civis Negro e feminino no Estados unidos   
+descrição Camisa da heroína Angela Davis líder do movimento pelo direitos civis Negro e feminino no Estados unidos   
+
+Camisa da heroína Camisa Malcom X líder do movimento pelo direitos civis Negro Estados unidos 
+
+Camisa da heroína Camisa Martin L King líder do movimento pelo direitos civis Negro Estados unidos   
 
 seo: camisa-da-resistencia, heroina-resistencia, angela-davis, negra, feminismo, azul-verde
 
+camisa-da-resistencia, hero-resistencia, malcom-x, negro, direito-civil, verde-azul
+camisa-da-resistencia, hero-resistencia, malcom-x, negro, direito-civil, amarelo-azul
+camisa-da-resistencia, hero-resistencia, malcom-x, negro, direito-civil, rosa-vermelho
+camisa-da-resistencia, hero-resistencia, malcom-x, negro, direito-civil, azul-rosa
+
+
+camisa-da-resistencia, hero-resistencia, martin-l-king, negro, direito-civil, verde-azul
+camisa-da-resistencia, hero-resistencia, martin-l-king, negro, direito-civil, amarelo-azul
+camisa-da-resistencia, hero-resistencia, martin-l-king, negro, direito-civil, rosa-vermelho
+camisa-da-resistencia, hero-resistencia, martin-l-king, negro, direito-civil, azul-rosa
 peso: 300
 
 50 X 1,60
